@@ -1,8 +1,6 @@
-# Repositorio Proyecto VII / Herramientas de Desarrollo de Software
+# Repositorio Proyecto VII 
 
-Repositorio Proyecto VII. DATA SCIENTIST.
-
--- Herramientas de desarrollo de software. --
+# Herramientas de Desarrollo de Software
 
 * Habilidades aprendidas en el Sprint:
 Desarrollar e implementar una aplicación web en un servicio en la nube para que sea accesible al público.
